@@ -1,0 +1,121 @@
+{
+  "videos": [
+    {
+      "destination": "Vineyard",
+      "guest": "100-150",
+      "name": "Palazzo Sergardi Biringucci",
+      "location": "Tuscany, Italy",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/10/image00027-1345x1100.jpeg",
+      "id": 4
+    },
+    {
+      "destination": "Vineyard",
+      "guest": "50-100",
+      "name": "Finca Aal Cachucho",
+      "location": "Madrid, Spain",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/08/weddings-abroad-destination-spain-sunny-countryside-views-events-breakfast-reception-ceremony-estate-finca-madrid-aal-cachucho-gardens-unique-hotel-rooms-luxurious.jpg",
+      "id": 5
+    },
+    {
+      "destination": "Terrace",
+      "guest": "30-50",
+      "name": "Villa Maggio ",
+      "location": "Sicily, Italy",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/06/DSC06376.jpg",
+      "id": 6
+    },
+    {
+      "destination": "Vineyard",
+      "guest": "200+",
+      "name": "Mas Bosc ",
+      "location": "Catalonia, Spain",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/05/Bagan-Fotografia-1.jpg",
+      "id": 8
+    },
+    {
+      "destination": "Terrace",
+      "guest": "100-150",
+      "name": "Hacienda Chuntuac ",
+      "location": "Mexico",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/04/KAREN-CASTELLANOS-JUL239-1400x933.jpg",
+      "id": 11
+    },
+    {
+      "destination": "",
+      "guest": "80-100",
+      "name": "Luce Beach Club  ",
+      "location": "Italy ",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/09/Luce-Beach-Club.jpg",
+      "id": 12
+    },
+    {
+      "destination": "",
+      "guest": "10-30",
+      "name": "Masia Ventanell ",
+      "location": "Spain",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/05/Masia-Ventanell.jpg",
+      "id": 13
+    },
+    {
+      "destination": "",
+      "guest": "150-200",
+      "name": "Santa Irini Retreat ",
+      "location": "Greece",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/04/CR6A7000-1400x885.jpg",
+      "id": 14
+    },
+    {
+      "destination": "",
+      "guest": "80-100",
+      "name": "Casa Monte Cristo Collection ",
+      "location": "Portugal",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2021/06/37256-5d4p4752-1400x933.jpg",
+      "id": 15
+    },
+    {
+      "destination": "",
+      "guest": "Not Sure",
+      "name": "Chateau de Lartigolle ",
+      "location": "France",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/01/Chateau-de-Lartigolle-hero.jpg",
+      "id": 16
+    },
+    {
+      "destination": "",
+      "guest": "50-80",
+      "name": "Petunia Ibiza",
+      "location": "Spain",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2023/09/DSC_5971.jpg",
+      "id": 17
+    },
+    {
+      "destination": {
+        "name": "Chateau"
+      },
+      "guest": "80-100",
+      "name": "Losellu Events ",
+      "location": "UK",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2019/03/Wharfedale-Grange-370.jpg",
+      "id": 18
+    },
+    {
+      "destination": {
+        "name": "Resort"
+      },
+      "guest": "200+",
+      "name": "4Star Events",
+      "location": "kochi",
+      "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2023/06/278053157_373466931455371_4674727101798556341_n-1400x933.jpg",
+      "id": 19
+    }
+  ],
+  "favorites": [
+    {
+      "name": "Finca Aal Cachucho",
+      "location": "Madrid, Spain",
+      "guest": "50-100",
+      "imglink": "https://www.wedinspire.com/wp-content/uploads/2024/08/weddings-abroad-destination-spain-sunny-countryside-views-events-breakfast-reception-ceremony-estate-finca-madrid-aal-cachucho-gardens-unique-hotel-rooms-luxurious.jpg",
+      "id": 1
+    }
+  ]
+}
