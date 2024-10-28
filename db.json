@@ -4,7 +4,7 @@
       "destination": "Vineyard",
       "guest": "100-150",
       "name": "Palazzo Sergardi Biringucci",
-      "location": "Tuscany, Italy",
+      "location": "Italy",
       "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/10/image00027-1345x1100.jpeg",
       "id": 4
     },
@@ -12,7 +12,7 @@
       "destination": "Vineyard",
       "guest": "50-100",
       "name": "Finca Aal Cachucho",
-      "location": "Madrid, Spain",
+      "location": "Spain",
       "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/08/weddings-abroad-destination-spain-sunny-countryside-views-events-breakfast-reception-ceremony-estate-finca-madrid-aal-cachucho-gardens-unique-hotel-rooms-luxurious.jpg",
       "id": 5
     },
@@ -20,7 +20,7 @@
       "destination": "Terrace",
       "guest": "30-50",
       "name": "Villa Maggio ",
-      "location": "Sicily, Italy",
+      "location": "Italy",
       "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/06/DSC06376.jpg",
       "id": 6
     },
@@ -28,7 +28,7 @@
       "destination": "Vineyard",
       "guest": "200+",
       "name": "Mas Bosc ",
-      "location": "Catalonia, Spain",
+      "location": "Spain",
       "imgUrl": "https://www.wedinspire.com/wp-content/uploads/2024/05/Bagan-Fotografia-1.jpg",
       "id": 8
     },
@@ -112,7 +112,7 @@
   "favorites": [
     {
       "name": "Finca Aal Cachucho",
-      "location": "Madrid, Spain",
+      "location": "Spain",
       "guest": "50-100",
       "imglink": "https://www.wedinspire.com/wp-content/uploads/2024/08/weddings-abroad-destination-spain-sunny-countryside-views-events-breakfast-reception-ceremony-estate-finca-madrid-aal-cachucho-gardens-unique-hotel-rooms-luxurious.jpg",
       "id": 1
